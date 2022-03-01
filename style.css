@@ -1,0 +1,17 @@
+body {
+    background-color: #D6EAF8;
+}
+
+h1 {
+    text-align: center;
+    color: #1F2F4E;
+}
+
+div {
+    color: #1F2F4E;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    font-size: 20px;
+    padding: 20px;    
+}
